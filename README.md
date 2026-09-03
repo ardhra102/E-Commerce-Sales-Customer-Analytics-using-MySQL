@@ -6,7 +6,7 @@ MySQL Workbench
 
 # 📊 Dataset
 Source: Kaggle
-Dataset: E-Commerce Dataset
+,Dataset: E-Commerce Dataset
 [https://www.kaggle.com/datasets/maramsa/e-commerce-sales-and-customer-analytics-dataset?]
 
 # 🔍 Key Business Questions Answered
